@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 # gem "bundler"
 # gem "jekyll"
-gem "github-pages",  group: :jekyll_plugins
+gem "github-pages", ">= 224", group: :jekyll_plugins
 
 # gem "jekyll-paginate", "~> 1.1.0"
 # gem "jekyll-tagging"
